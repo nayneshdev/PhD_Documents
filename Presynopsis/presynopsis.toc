@@ -1,0 +1,10 @@
+\contentsline {part}{\numberline {I}Background of the study}{1}
+\contentsline {part}{\numberline {II}Structure of the Thesis}{4}
+\contentsline {chapter}{\numberline {1}Introduction}{6}
+\contentsline {chapter}{\numberline {2}Theoretical Overview}{7}
+\contentsline {chapter}{\numberline {3}Mass spectra of heavy-light flavored and heavy-heavy flavored mesons}{8}
+\contentsline {chapter}{\numberline {4}E1 and M1 transitions of heavy-light and heavy-heavy mesons}{9}
+\contentsline {chapter}{\numberline {5}Decay properties}{10}
+\contentsline {chapter}{\numberline {6}Summary, conclusion and future work}{11}
+\contentsline {chapter}{\numberline {7}Bibliography}{13}
+\contentsline {chapter}{\numberline {8}Bibliography}{17}
